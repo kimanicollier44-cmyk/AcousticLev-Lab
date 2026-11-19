@@ -1,4 +1,4 @@
-![AcousticLev-Lab cover](assets/cover.png)
+![AcousticLev-Lab cover](AcousticLev-Lab%20cover.png)
 
 # 🔊 AcousticLev-Lab — Acoustic Levitation Sound Lab
 
